@@ -1,7 +1,7 @@
 # Welcome to Project Dashboard  :tada: 
 **REST API Dashboard Repository**
 
-The project was created as coursework for a module I studied in my Masters degree at the Queen Mary University of London.
+The project was created as coursework when I was studying at the Queen Mary University of London.
 
 **Full source code of the project will be uploaded soon.**
 
