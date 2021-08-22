@@ -3,6 +3,14 @@
 
 The project was created as coursework when I was studying at the Queen Mary University of London.
 
+![Progress Image](/static/Welcome.png)
+
+![Progress Image](/static/About.png)
+
+![Progress Image](/static/Dashboard.png)
+
+![Progress Image](/static/Records.png)
+
 **Full source code of the project will be uploaded soon.**
 
 ## The Dashboad is powered by
