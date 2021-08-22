@@ -25,7 +25,7 @@ The project was created as coursework when I was studying at the Queen Mary Univ
 - HTML
 - CSS
 
-**Containerizated:**
+**Containerized:**
 - Docker
 - Kubernetes
 
