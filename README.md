@@ -82,3 +82,9 @@ GET `/showrecords` (get userdata)
 - Install flask_sqlalchemey
 - Install request_cache
 - Install pyopenssl
+
+
+## Contact
+
+Feel free to reach out to me at my 📫 [Personal email](mailto:safwanzk@outlook.com?subject=From%20Github%3A%20Project%20Dashboard&body=Hi%20Safwan!%0D%0A%0D%0AI%20would%20like%20some%20information%20regarding%20your%20awesome%20Project%20Dashboard)  for more details about this project. 
+
