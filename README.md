@@ -1,7 +1,7 @@
 # Welcome to Project Dashboard  :tada: 
 **REST API Dashboard Repository**
 
-The project was created as coursework when I was studying at the Queen Mary University of London.
+The project was created as a coursework while I was studying at the Queen Mary University of London.
 
 ![Progress Image](/static/Welcome.png)
 
